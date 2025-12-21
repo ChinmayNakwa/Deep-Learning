@@ -4,3 +4,6 @@ __pycache__/
 img_align_celeba
 list_attr_celeba.csv
 data
+logs
+models
+checkpoint
